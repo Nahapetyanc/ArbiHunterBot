@@ -11,7 +11,7 @@
 
 2. Создай `.env` файл:
    ```
-   BOT_TOKEN=твой_токен
+   BOT_TOKEN=7526649705:AAGdPf5lzwsuqgkCyO7Kf0EHh5Bdbgr1ZEc
    ```
 
 3. Запусти:
